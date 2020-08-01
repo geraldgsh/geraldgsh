@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Gerald
-#### I am Full Stack Developer
+
 ![I am Full Stack Developer](https://i.imgur.com/c7GmAJf.png)
 
 I am a Full-Stack Developer who enjoys blending aesthetics with sophistication and functionality. Through pair programming with other aspiring remote developers around the world, we collaborated to build over 50 fully functional apps using HTML, CSS, Ruby on Rails, React & JavaScript.
